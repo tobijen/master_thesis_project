@@ -1,0 +1,2430 @@
+[
+  {
+    "id": "c0",
+    "cluster": "cluster_0",
+    "topic": "IT-Management und Wissensmanagement",
+    "single": [
+      {
+        "id": "c0_1_single",
+        "keyword": "IT-Systemadministration",
+        "variations": [
+          {
+            "id": "c0_1_single_keyword",
+            "query": "IT-Systemadministration",
+            "type": "single_keyword"
+          },
+          {
+            "id": "c0_1_single_freetext",
+            "query": "Gesucht wird ein Experte mit Fähigkeiten im Bereich IT-Systemadministration",
+            "type": "single_free"
+          },
+          {
+            "id": "c0_1_single_keyword_synonym",
+            "query": "Serveradministration",
+            "type": "single_keyword_synonym"
+          },
+          {
+            "id": "c0_1_single_freetext_synonym",
+            "query": "Gesucht wird ein Experte mit Fähigkeiten im Bereich Serveradministration",
+            "type": "single_free_synonym"
+          }
+        ]
+      },
+      {
+        "id": "c0_2_single",
+        "keyword": "Information Technology",
+        "variations": [
+          {
+            "id": "c0_2_single_keyword",
+            "query": "Information Technology",
+            "type": "single_keyword"
+          },
+          {
+            "id": "c0_2_single_freetext",
+            "query": "Gesucht wird ein Experte mit Fähigkeiten im Bereich Information Technology",
+            "type": "single_free"
+          },
+          {
+            "id": "c0_2_single_keyword_synonym",
+            "query": "Computing",
+            "type": "single_keyword_synonym"
+          },
+          {
+            "id": "c0_2_single_freetext_synonym",
+            "query": "Gesucht wird ein Experte mit Fähigkeiten im Bereich Computing",
+            "type": "single_free_synonym"
+          }
+        ]
+      },
+      {
+        "id": "c0_3_single",
+        "keyword": "Wissensmanagement",
+        "variations": [
+          {
+            "id": "c0_3_single_keyword",
+            "query": "Wissensmanagement",
+            "type": "single_keyword"
+          },
+          {
+            "id": "c0_3_single_freetext",
+            "query": "Gesucht wird ein Experte mit Fähigkeiten im Bereich Wissensmanagement",
+            "type": "single_free"
+          },
+          {
+            "id": "c0_3_single_keyword_synonym",
+            "query": "Wissensverwaltung",
+            "type": "single_keyword_synonym"
+          },
+          {
+            "id": "c0_3_single_freetext_synonym",
+            "query": "Gesucht wird ein Experte mit Fähigkeiten im Bereich Wissensverwaltung",
+            "type": "single_free_synonym"
+          }
+        ]
+      }
+    ],
+    "combination": []
+  },
+  {
+    "id": "c1",
+    "cluster": "cluster_1",
+    "topic": "Mechanik-, Elektro- und Automatisierungstechnik",
+    "single": [
+      {
+        "id": "c1_1_single",
+        "keyword": "Konstruktion",
+        "variations": [
+          {
+            "id": "c1_1_single_keyword",
+            "query": "Konstruktion",
+            "type": "single_keyword"
+          },
+          {
+            "id": "c1_1_single_freetext",
+            "query": "Gesucht wird ein Experte mit Fähigkeiten im Bereich Konstruktion",
+            "type": "single_free"
+          },
+          {
+            "id": "c1_1_single_keyword_synonym",
+            "query": "Aufbau",
+            "type": "single_keyword_synonym"
+          },
+          {
+            "id": "c1_1_single_freetext_synonym",
+            "query": "Gesucht wird ein Experte mit Fähigkeiten im Bereich Aufbau",
+            "type": "single_free_synonym"
+          }
+        ]
+      },
+      {
+        "id": "c1_2_single",
+        "keyword": "Metallhandwerk",
+        "variations": [
+          {
+            "id": "c1_2_single_keyword",
+            "query": "Metallhandwerk",
+            "type": "single_keyword"
+          },
+          {
+            "id": "c1_2_single_freetext",
+            "query": "Gesucht wird ein Experte mit Fähigkeiten im Bereich Metallhandwerk",
+            "type": "single_free"
+          },
+          {
+            "id": "c1_2_single_keyword_synonym",
+            "query": "Metallbearbeitung",
+            "type": "single_keyword_synonym"
+          },
+          {
+            "id": "c1_2_single_freetext_synonym",
+            "query": "Gesucht wird ein Experte mit Fähigkeiten im Bereich Metallbearbeitung",
+            "type": "single_free_synonym"
+          }
+        ]
+      },
+      {
+        "id": "c1_3_single",
+        "keyword": "Mechanik",
+        "variations": [
+          {
+            "id": "c1_3_single_keyword",
+            "query": "Mechanik",
+            "type": "single_keyword"
+          },
+          {
+            "id": "c1_3_single_freetext",
+            "query": "Gesucht wird ein Experte mit Fähigkeiten im Bereich Mechanik",
+            "type": "single_free"
+          },
+          {
+            "id": "c1_3_single_keyword_synonym",
+            "query": "Maschinenbau",
+            "type": "single_keyword_synonym"
+          },
+          {
+            "id": "c1_3_single_freetext_synonym",
+            "query": "Gesucht wird ein Experte mit Fähigkeiten im Bereich Maschinenbau",
+            "type": "single_free_synonym"
+          }
+        ]
+      },
+      {
+        "id": "c1_4_single",
+        "keyword": "Automatisierungstechnik",
+        "variations": [
+          {
+            "id": "c1_4_single_keyword",
+            "query": "Automatisierungstechnik",
+            "type": "single_keyword"
+          },
+          {
+            "id": "c1_4_single_freetext",
+            "query": "Gesucht wird ein Experte mit Fähigkeiten im Bereich Automatisierungstechnik",
+            "type": "single_free"
+          },
+          {
+            "id": "c1_4_single_keyword_synonym",
+            "query": "Automatisierungstechnologie",
+            "type": "single_keyword_synonym"
+          },
+          {
+            "id": "c1_4_single_freetext_synonym",
+            "query": "Gesucht wird ein Experte mit Fähigkeiten im Bereich Automatisierungstechnologie",
+            "type": "single_free_synonym"
+          }
+        ]
+      },
+      {
+        "id": "c1_5_single",
+        "keyword": "Elektrotechnik",
+        "variations": [
+          {
+            "id": "c1_5_single_keyword",
+            "query": "Elektrotechnik",
+            "type": "single_keyword"
+          },
+          {
+            "id": "c1_5_single_freetext",
+            "query": "Gesucht wird ein Experte mit Fähigkeiten im Bereich Elektrotechnik",
+            "type": "single_free"
+          },
+          {
+            "id": "c1_5_single_keyword_synonym",
+            "query": "Elektroingenieurwesen",
+            "type": "single_keyword_synonym"
+          },
+          {
+            "id": "c1_5_single_freetext_synonym",
+            "query": "Gesucht wird ein Experte mit Fähigkeiten im Bereich Elektroingenieurwesen",
+            "type": "single_free_synonym"
+          }
+        ]
+      }
+    ],
+    "combination": [
+      {
+        "id": "c1_1_combination",
+        "keywords": [
+          "Konstruktion",
+          "Metallhandwerk"
+        ],
+        "variations": [
+          {
+            "id": "c1_1_combination_keyword",
+            "query": "Konstruktion, Metallhandwerk",
+            "type": "combination_keyword"
+          },
+          {
+            "id": "c1_1_combination_freetext",
+            "query": "Gesucht wird ein Experte mit Fähigkeiten in den Bereichen Konstruktion und Metallhandwerk",
+            "type": "combination_free"
+          },
+          {
+            "id": "c1_1_combination_keyword_synonym",
+            "query": "Errichtung, Metallverarbeitung",
+            "type": "combination_keyword_synonym"
+          },
+          {
+            "id": "c1_1_combination_freetext_synonym",
+            "query": "Gesucht wird ein Experte mit Fähigkeiten in den Bereichen Errichtung und Metallverarbeitung",
+            "type": "combination_free_synonym"
+          }
+        ]
+      },
+      {
+        "id": "c1_2_combination",
+        "keywords": [
+          "Mechanik",
+          "Elektrotechnik"
+        ],
+        "variations": [
+          {
+            "id": "c1_2_combination_keyword",
+            "query": "Mechanik, Elektrotechnik",
+            "type": "combination_keyword"
+          },
+          {
+            "id": "c1_2_combination_freetext",
+            "query": "Gesucht wird ein Experte mit Fähigkeiten in den Bereichen Mechanik und Elektrotechnik",
+            "type": "combination_free"
+          },
+          {
+            "id": "c1_2_combination_keyword_synonym",
+            "query": "Machinenbau, Elektronik",
+            "type": "combination_keyword_synonym"
+          },
+          {
+            "id": "c1_2_combination_freetext_synonym",
+            "query": "Gesucht wird ein Experte mit Fähigkeiten in den Bereichen Machinenbau und Elektronik",
+            "type": "combination_free_synonym"
+          }
+        ]
+      },
+      {
+        "id": "c1_3_combination",
+        "keywords": [
+          "Metallhandwerk",
+          "Mechanik"
+        ],
+        "variations": [
+          {
+            "id": "c1_3_combination_keyword",
+            "query": "Metallhandwerk, Mechanik",
+            "type": "combination_keyword"
+          },
+          {
+            "id": "c1_3_combination_freetext",
+            "query": "Gesucht wird ein Experte mit Fähigkeiten in den Bereichen Metallhandwerk und Mechanik",
+            "type": "combination_free"
+          },
+          {
+            "id": "c1_3_combination_keyword_synonym",
+            "query": "Metallbearbeitung, Maschinentechnik",
+            "type": "combination_keyword_synonym"
+          },
+          {
+            "id": "c1_3_combination_freetext_synonym",
+            "query": "Gesucht wird ein Experte mit Fähigkeiten in den Bereichen Metallbearbeitung und Maschinentechnik",
+            "type": "combination_free_synonym"
+          }
+        ]
+      },
+      {
+        "id": "c1_4_combination",
+        "keywords": [
+          "Metallhandwerk",
+          "Elektrotechnik"
+        ],
+        "variations": [
+          {
+            "id": "c1_4_combination_keyword",
+            "query": "Metallhandwerk, Elektrotechnik",
+            "type": "combination_keyword"
+          },
+          {
+            "id": "c1_4_combination_freetext",
+            "query": "Gesucht wird ein Experte mit Fähigkeiten in den Bereichen Metallhandwerk und Elektrotechnik",
+            "type": "combination_free"
+          },
+          {
+            "id": "c1_4_combination_keyword_synonym",
+            "query": "Metallverarbeitung, Elektroniktechnik",
+            "type": "combination_keyword_synonym"
+          },
+          {
+            "id": "c1_4_combination_freetext_synonym",
+            "query": "Gesucht wird ein Experte mit Fähigkeiten in den Bereichen Metallverarbeitung und Elektroniktechnik",
+            "type": "combination_free_synonym"
+          }
+        ]
+      },
+      {
+        "id": "c1_5_combination",
+        "keywords": [
+          "Mechanik",
+          "Automatisierungstechnik"
+        ],
+        "variations": [
+          {
+            "id": "c1_5_combination_keyword",
+            "query": "Mechanik, Automatisierungstechnik",
+            "type": "combination_keyword"
+          },
+          {
+            "id": "c1_5_combination_freetext",
+            "query": "Gesucht wird ein Experte mit Fähigkeiten in den Bereichen Mechanik und Automatisierungstechnik",
+            "type": "combination_free"
+          },
+          {
+            "id": "c1_5_combination_keyword_synonym",
+            "query": "Kinematik, Fabrikautomatisierung",
+            "type": "combination_keyword_synonym"
+          },
+          {
+            "id": "c1_5_combination_freetext_synonym",
+            "query": "Gesucht wird ein Experte mit Fähigkeiten in den Bereichen Kinematik und Fabrikautomatisierung",
+            "type": "combination_free_synonym"
+          }
+        ]
+      },
+      {
+        "id": "c1_6_combination",
+        "keywords": [
+          "Automatisierungstechnik",
+          "Elektrotechnik"
+        ],
+        "variations": [
+          {
+            "id": "c1_6_combination_keyword",
+            "query": "Automatisierungstechnik, Elektrotechnik",
+            "type": "combination_keyword"
+          },
+          {
+            "id": "c1_6_combination_freetext",
+            "query": "Gesucht wird ein Experte mit Fähigkeiten in den Bereichen Automatisierungstechnik und Elektrotechnik",
+            "type": "combination_free"
+          },
+          {
+            "id": "c1_6_combination_keyword_synonym",
+            "query": "Automatisierung, Elektronik",
+            "type": "combination_keyword_synonym"
+          },
+          {
+            "id": "c1_6_combination_freetext_synonym",
+            "query": "Gesucht wird ein Experte mit Fähigkeiten in den Bereichen Automatisierung und Elektronik",
+            "type": "combination_free_synonym"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "c3",
+    "cluster": "cluster_3",
+    "topic": "Künstliche Intelligenz",
+    "single": [
+      {
+        "id": "c3_1_single",
+        "keyword": "KI",
+        "variations": [
+          {
+            "id": "c3_1_single_keyword",
+            "query": "KI",
+            "type": "single_keyword"
+          },
+          {
+            "id": "c3_1_single_freetext",
+            "query": "Gesucht wird ein Experte mit Fähigkeiten im Bereich KI",
+            "type": "single_free"
+          },
+          {
+            "id": "c3_1_single_keyword_synonym",
+            "query": "AI",
+            "type": "single_keyword_synonym"
+          },
+          {
+            "id": "c3_1_single_freetext_synonym",
+            "query": "Gesucht wird ein Experte mit Fähigkeiten im Bereich AI",
+            "type": "single_free_synonym"
+          }
+        ]
+      }
+    ],
+    "combination": []
+  },
+  {
+    "id": "c5",
+    "cluster": "cluster_5",
+    "topic": "Verkauf, Kommunikation und Marketing",
+    "single": [
+      {
+        "id": "c5_1_single",
+        "keyword": "Public Relations",
+        "variations": [
+          {
+            "id": "c5_1_single_keyword",
+            "query": "Public Relations",
+            "type": "single_keyword"
+          },
+          {
+            "id": "c5_1_single_freetext",
+            "query": "Gesucht wird ein Experte mit Fähigkeiten im Bereich Public Relations",
+            "type": "single_free"
+          },
+          {
+            "id": "c5_1_single_keyword_synonym",
+            "query": "Öffentlichkeitsarbeit",
+            "type": "single_keyword_synonym"
+          },
+          {
+            "id": "c5_1_single_freetext_synonym",
+            "query": "Gesucht wird ein Experte mit Fähigkeiten im Bereich Öffentlichkeitsarbeit",
+            "type": "single_free_synonym"
+          }
+        ]
+      },
+      {
+        "id": "c5_2_single",
+        "keyword": "Sales",
+        "variations": [
+          {
+            "id": "c5_2_single_keyword",
+            "query": "Sales",
+            "type": "single_keyword"
+          },
+          {
+            "id": "c5_2_single_freetext",
+            "query": "Gesucht wird ein Experte mit Fähigkeiten im Bereich Sales",
+            "type": "single_free"
+          },
+          {
+            "id": "c5_2_single_keyword_synonym",
+            "query": "Verkauf",
+            "type": "single_keyword_synonym"
+          },
+          {
+            "id": "c5_2_single_freetext_synonym",
+            "query": "Gesucht wird ein Experte mit Fähigkeiten im Bereich Verkauf",
+            "type": "single_free_synonym"
+          }
+        ]
+      },
+      {
+        "id": "c5_3_single",
+        "keyword": "Social Media Marketing",
+        "variations": [
+          {
+            "id": "c5_3_single_keyword",
+            "query": "Social Media Marketing",
+            "type": "single_keyword"
+          },
+          {
+            "id": "c5_3_single_freetext",
+            "query": "Gesucht wird ein Experte mit Fähigkeiten im Bereich Social Media Marketing",
+            "type": "single_free"
+          },
+          {
+            "id": "c5_3_single_keyword_synonym",
+            "query": "SoMeWerbung",
+            "type": "single_keyword_synonym"
+          },
+          {
+            "id": "c5_3_single_freetext_synonym",
+            "query": "Gesucht wird ein Experte mit Fähigkeiten im Bereich SoMeWerbung",
+            "type": "single_free_synonym"
+          }
+        ]
+      }
+    ],
+    "combination": [
+      {
+        "id": "c5_1_combination",
+        "keywords": [
+          "Public Relations",
+          "Social Media Marketing"
+        ],
+        "variations": [
+          {
+            "id": "c5_1_combination_keyword",
+            "query": "Public Relations, Social Media Marketing",
+            "type": "combination_keyword"
+          },
+          {
+            "id": "c5_1_combination_freetext",
+            "query": "Gesucht wird ein Experte mit Fähigkeiten in den Bereichen Public Relations und Social Media Marketing",
+            "type": "combination_free"
+          },
+          {
+            "id": "c5_1_combination_keyword_synonym",
+            "query": "Pressearbeit, Social-Media-Werbung",
+            "type": "combination_keyword_synonym"
+          },
+          {
+            "id": "c5_1_combination_freetext_synonym",
+            "query": "Gesucht wird ein Experte mit Fähigkeiten in den Bereichen Pressearbeit und Social-Media-Werbung",
+            "type": "combination_free_synonym"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "c6",
+    "cluster": "cluster_6",
+    "topic": "Digitales Marketing und Markenkommunikation",
+    "single": [
+      {
+        "id": "c6_1_single",
+        "keyword": "Marketing",
+        "variations": [
+          {
+            "id": "c6_1_single_keyword",
+            "query": "Marketing",
+            "type": "single_keyword"
+          },
+          {
+            "id": "c6_1_single_freetext",
+            "query": "Gesucht wird ein Experte mit Fähigkeiten im Bereich Marketing",
+            "type": "single_free"
+          },
+          {
+            "id": "c6_1_single_keyword_synonym",
+            "query": "Absatzförderung",
+            "type": "single_keyword_synonym"
+          },
+          {
+            "id": "c6_1_single_freetext_synonym",
+            "query": "Gesucht wird ein Experte mit Fähigkeiten im Bereich Absatzförderung",
+            "type": "single_free_synonym"
+          }
+        ]
+      },
+      {
+        "id": "c6_2_single",
+        "keyword": "Brand Management",
+        "variations": [
+          {
+            "id": "c6_2_single_keyword",
+            "query": "Brand Management",
+            "type": "single_keyword"
+          },
+          {
+            "id": "c6_2_single_freetext",
+            "query": "Gesucht wird ein Experte mit Fähigkeiten im Bereich Brand Management",
+            "type": "single_free"
+          },
+          {
+            "id": "c6_2_single_keyword_synonym",
+            "query": "Markenführung",
+            "type": "single_keyword_synonym"
+          },
+          {
+            "id": "c6_2_single_freetext_synonym",
+            "query": "Gesucht wird ein Experte mit Fähigkeiten im Bereich Markenführung",
+            "type": "single_free_synonym"
+          }
+        ]
+      }
+    ],
+    "combination": [
+      {
+        "id": "c6_1_combination",
+        "keywords": [
+          "Marketing",
+          "Social Media Marketing"
+        ],
+        "variations": [
+          {
+            "id": "c6_1_combination_keyword",
+            "query": "Marketing, Social Media Marketing",
+            "type": "combination_keyword"
+          },
+          {
+            "id": "c6_1_combination_freetext",
+            "query": "Gesucht wird ein Experte mit Fähigkeiten in den Bereichen Marketing und Social Media Marketing",
+            "type": "combination_free"
+          },
+          {
+            "id": "c6_1_combination_keyword_synonym",
+            "query": "Absatzförderung, Werbung in sozialen Netzwerken",
+            "type": "combination_keyword_synonym"
+          },
+          {
+            "id": "c6_1_combination_freetext_synonym",
+            "query": "Gesucht wird ein Experte mit Fähigkeiten in den Bereichen Absatzförderung und Werbung in sozialen Netzwerken",
+            "type": "combination_free_synonym"
+          }
+        ]
+      },
+      {
+        "id": "c6_2_combination",
+        "keywords": [
+          "Marketing",
+          "Brand Management"
+        ],
+        "variations": [
+          {
+            "id": "c6_2_combination_keyword",
+            "query": "Marketing, Brand Management",
+            "type": "combination_keyword"
+          },
+          {
+            "id": "c6_2_combination_freetext",
+            "query": "Gesucht wird ein Experte mit Fähigkeiten in den Bereichen Marketing und Brand Management",
+            "type": "combination_free"
+          },
+          {
+            "id": "c6_2_combination_keyword_synonym",
+            "query": "Vermarktung, Markenführung",
+            "type": "combination_keyword_synonym"
+          },
+          {
+            "id": "c6_2_combination_freetext_synonym",
+            "query": "Gesucht wird ein Experte mit Fähigkeiten in den Bereichen Vermarktung und Markenführung",
+            "type": "combination_free_synonym"
+          }
+        ]
+      },
+      {
+        "id": "c6_3_combination",
+        "keywords": [
+          "Social Media Marketing",
+          "Brand Management"
+        ],
+        "variations": [
+          {
+            "id": "c6_3_combination_keyword",
+            "query": "Social Media Marketing, Brand Management",
+            "type": "combination_keyword"
+          },
+          {
+            "id": "c6_3_combination_freetext",
+            "query": "Gesucht wird ein Experte mit Fähigkeiten in den Bereichen Social Media Marketing und Brand Management",
+            "type": "combination_free"
+          },
+          {
+            "id": "c6_3_combination_keyword_synonym",
+            "query": "Soziale Netzwerke-Werbung, Markenführung",
+            "type": "combination_keyword_synonym"
+          },
+          {
+            "id": "c6_3_combination_freetext_synonym",
+            "query": "Gesucht wird ein Experte mit Fähigkeiten in den Bereichen Soziale Netzwerke-Werbung und Markenführung",
+            "type": "combination_free_synonym"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "c7",
+    "cluster": "cluster_7",
+    "topic": "Personal- und Organisationsentwicklung",
+    "single": [
+      {
+        "id": "c7_1_single",
+        "keyword": "Employee Development",
+        "variations": [
+          {
+            "id": "c7_1_single_keyword",
+            "query": "Employee Development",
+            "type": "single_keyword"
+          },
+          {
+            "id": "c7_1_single_freetext",
+            "query": "Gesucht wird ein Experte mit Fähigkeiten im Bereich Employee Development",
+            "type": "single_free"
+          },
+          {
+            "id": "c7_1_single_keyword_synonym",
+            "query": "Mitarbeiterentwicklung",
+            "type": "single_keyword_synonym"
+          },
+          {
+            "id": "c7_1_single_freetext_synonym",
+            "query": "Gesucht wird ein Experte mit Fähigkeiten im Bereich Mitarbeiterentwicklung",
+            "type": "single_free_synonym"
+          }
+        ]
+      },
+      {
+        "id": "c7_2_single",
+        "keyword": "Personalentwicklung und Mentoring",
+        "variations": [
+          {
+            "id": "c7_2_single_keyword",
+            "query": "Personalentwicklung und Mentoring",
+            "type": "single_keyword"
+          },
+          {
+            "id": "c7_2_single_freetext",
+            "query": "Gesucht wird ein Experte mit Fähigkeiten im Bereich Personalentwicklung und Mentoring",
+            "type": "single_free"
+          },
+          {
+            "id": "c7_2_single_keyword_synonym",
+            "query": "Mitarbeiterentwicklung",
+            "type": "single_keyword_synonym"
+          },
+          {
+            "id": "c7_2_single_freetext_synonym",
+            "query": "Gesucht wird ein Experte mit Fähigkeiten im Bereich Mitarbeiterentwicklung",
+            "type": "single_free_synonym"
+          }
+        ]
+      },
+      {
+        "id": "c7_3_single",
+        "keyword": "Human Resources",
+        "variations": [
+          {
+            "id": "c7_3_single_keyword",
+            "query": "Human Resources",
+            "type": "single_keyword"
+          },
+          {
+            "id": "c7_3_single_freetext",
+            "query": "Gesucht wird ein Experte mit Fähigkeiten im Bereich Human Resources",
+            "type": "single_free"
+          },
+          {
+            "id": "c7_3_single_keyword_synonym",
+            "query": "Personalwesen",
+            "type": "single_keyword_synonym"
+          },
+          {
+            "id": "c7_3_single_freetext_synonym",
+            "query": "Gesucht wird ein Experte mit Fähigkeiten im Bereich Personalwesen",
+            "type": "single_free_synonym"
+          }
+        ]
+      },
+      {
+        "id": "c7_4_single",
+        "keyword": "Coaching",
+        "variations": [
+          {
+            "id": "c7_4_single_keyword",
+            "query": "Coaching",
+            "type": "single_keyword"
+          },
+          {
+            "id": "c7_4_single_freetext",
+            "query": "Gesucht wird ein Experte mit Fähigkeiten im Bereich Coaching",
+            "type": "single_free"
+          },
+          {
+            "id": "c7_4_single_keyword_synonym",
+            "query": "Mentoring",
+            "type": "single_keyword_synonym"
+          },
+          {
+            "id": "c7_4_single_freetext_synonym",
+            "query": "Gesucht wird ein Experte mit Fähigkeiten im Bereich Mentoring",
+            "type": "single_free_synonym"
+          }
+        ]
+      }
+    ],
+    "combination": [
+      {
+        "id": "c7_1_combination",
+        "keywords": [
+          "Business Development",
+          "Employee Development"
+        ],
+        "variations": [
+          {
+            "id": "c7_1_combination_keyword",
+            "query": "Business Development, Employee Development",
+            "type": "combination_keyword"
+          },
+          {
+            "id": "c7_1_combination_freetext",
+            "query": "Gesucht wird ein Experte mit Fähigkeiten in den Bereichen Business Development und Employee Development",
+            "type": "combination_free"
+          },
+          {
+            "id": "c7_1_combination_keyword_synonym",
+            "query": "Geschäftsentwicklung, Mitarbeiterentwicklung",
+            "type": "combination_keyword_synonym"
+          },
+          {
+            "id": "c7_1_combination_freetext_synonym",
+            "query": "Gesucht wird ein Experte mit Fähigkeiten in den Bereichen Geschäftsentwicklung und Mitarbeiterentwicklung",
+            "type": "combination_free_synonym"
+          }
+        ]
+      },
+      {
+        "id": "c7_2_combination",
+        "keywords": [
+          "Business Development",
+          "Personalentwicklung und Mentoring"
+        ],
+        "variations": [
+          {
+            "id": "c7_2_combination_keyword",
+            "query": "Business Development, Personalentwicklung und Mentoring",
+            "type": "combination_keyword"
+          },
+          {
+            "id": "c7_2_combination_freetext",
+            "query": "Gesucht wird ein Experte mit Fähigkeiten in den Bereichen Business Development und Personalentwicklung und Mentoring",
+            "type": "combination_free"
+          },
+          {
+            "id": "c7_2_combination_keyword_synonym",
+            "query": "Unternehmensentwicklung, Mitarbeiterentwicklung und Begleitung",
+            "type": "combination_keyword_synonym"
+          },
+          {
+            "id": "c7_2_combination_freetext_synonym",
+            "query": "Gesucht wird ein Experte mit Fähigkeiten in den Bereichen Unternehmensentwicklung und Mitarbeiterentwicklung und Begleitung",
+            "type": "combination_free_synonym"
+          }
+        ]
+      },
+      {
+        "id": "c7_3_combination",
+        "keywords": [
+          "Business Development",
+          "Human Resources"
+        ],
+        "variations": [
+          {
+            "id": "c7_3_combination_keyword",
+            "query": "Business Development, Human Resources",
+            "type": "combination_keyword"
+          },
+          {
+            "id": "c7_3_combination_freetext",
+            "query": "Gesucht wird ein Experte mit Fähigkeiten in den Bereichen Business Development und Human Resources",
+            "type": "combination_free"
+          },
+          {
+            "id": "c7_3_combination_keyword_synonym",
+            "query": "Geschäftsentwicklung, Personalwesen",
+            "type": "combination_keyword_synonym"
+          },
+          {
+            "id": "c7_3_combination_freetext_synonym",
+            "query": "Gesucht wird ein Experte mit Fähigkeiten in den Bereichen Geschäftsentwicklung und Personalwesen",
+            "type": "combination_free_synonym"
+          }
+        ]
+      },
+      {
+        "id": "c7_4_combination",
+        "keywords": [
+          "Business Development",
+          "Coaching"
+        ],
+        "variations": [
+          {
+            "id": "c7_4_combination_keyword",
+            "query": "Business Development, Coaching",
+            "type": "combination_keyword"
+          },
+          {
+            "id": "c7_4_combination_freetext",
+            "query": "Gesucht wird ein Experte mit Fähigkeiten in den Bereichen Business Development und Coaching",
+            "type": "combination_free"
+          },
+          {
+            "id": "c7_4_combination_keyword_synonym",
+            "query": "Geschäftsentwicklung, Beratung",
+            "type": "combination_keyword_synonym"
+          },
+          {
+            "id": "c7_4_combination_freetext_synonym",
+            "query": "Gesucht wird ein Experte mit Fähigkeiten in den Bereichen Geschäftsentwicklung und Beratung",
+            "type": "combination_free_synonym"
+          }
+        ]
+      },
+      {
+        "id": "c7_5_combination",
+        "keywords": [
+          "Employee Development",
+          "Personalentwicklung und Mentoring"
+        ],
+        "variations": [
+          {
+            "id": "c7_5_combination_keyword",
+            "query": "Employee Development, Personalentwicklung und Mentoring",
+            "type": "combination_keyword"
+          },
+          {
+            "id": "c7_5_combination_freetext",
+            "query": "Gesucht wird ein Experte mit Fähigkeiten in den Bereichen Employee Development und Personalentwicklung und Mentoring",
+            "type": "combination_free"
+          },
+          {
+            "id": "c7_5_combination_keyword_synonym",
+            "query": "Mitarbeiterentwicklung, Mitarbeiterentwicklung und Begleitung",
+            "type": "combination_keyword_synonym"
+          },
+          {
+            "id": "c7_5_combination_freetext_synonym",
+            "query": "Gesucht wird ein Experte mit Fähigkeiten in den Bereichen Mitarbeiterentwicklung und Mitarbeiterentwicklung und Begleitung",
+            "type": "combination_free_synonym"
+          }
+        ]
+      },
+      {
+        "id": "c7_6_combination",
+        "keywords": [
+          "Employee Development",
+          "Human Resources"
+        ],
+        "variations": [
+          {
+            "id": "c7_6_combination_keyword",
+            "query": "Employee Development, Human Resources",
+            "type": "combination_keyword"
+          },
+          {
+            "id": "c7_6_combination_freetext",
+            "query": "Gesucht wird ein Experte mit Fähigkeiten in den Bereichen Employee Development und Human Resources",
+            "type": "combination_free"
+          },
+          {
+            "id": "c7_6_combination_keyword_synonym",
+            "query": "Talent Development, People Operations",
+            "type": "combination_keyword_synonym"
+          },
+          {
+            "id": "c7_6_combination_freetext_synonym",
+            "query": "Gesucht wird ein Experte mit Fähigkeiten in den Bereichen Talent Development und People Operations",
+            "type": "combination_free_synonym"
+          }
+        ]
+      },
+      {
+        "id": "c7_7_combination",
+        "keywords": [
+          "Employee Development",
+          "Coaching"
+        ],
+        "variations": [
+          {
+            "id": "c7_7_combination_keyword",
+            "query": "Employee Development, Coaching",
+            "type": "combination_keyword"
+          },
+          {
+            "id": "c7_7_combination_freetext",
+            "query": "Gesucht wird ein Experte mit Fähigkeiten in den Bereichen Employee Development und Coaching",
+            "type": "combination_free"
+          },
+          {
+            "id": "c7_7_combination_keyword_synonym",
+            "query": "Staff Development, Mentoring",
+            "type": "combination_keyword_synonym"
+          },
+          {
+            "id": "c7_7_combination_freetext_synonym",
+            "query": "Gesucht wird ein Experte mit Fähigkeiten in den Bereichen Staff Development und Mentoring",
+            "type": "combination_free_synonym"
+          }
+        ]
+      },
+      {
+        "id": "c7_8_combination",
+        "keywords": [
+          "Personalentwicklung und Mentoring",
+          "Human Resources"
+        ],
+        "variations": [
+          {
+            "id": "c7_8_combination_keyword",
+            "query": "Personalentwicklung und Mentoring, Human Resources",
+            "type": "combination_keyword"
+          },
+          {
+            "id": "c7_8_combination_freetext",
+            "query": "Gesucht wird ein Experte mit Fähigkeiten in den Bereichen Personalentwicklung und Mentoring und Human Resources",
+            "type": "combination_free"
+          },
+          {
+            "id": "c7_8_combination_keyword_synonym",
+            "query": "Belegschaftsentwicklung und Begleitung, Personalwesen",
+            "type": "combination_keyword_synonym"
+          },
+          {
+            "id": "c7_8_combination_freetext_synonym",
+            "query": "Gesucht wird ein Experte mit Fähigkeiten in den Bereichen Belegschaftsentwicklung und Begleitung und Personalwesen",
+            "type": "combination_free_synonym"
+          }
+        ]
+      },
+      {
+        "id": "c7_9_combination",
+        "keywords": [
+          "Personalentwicklung und Mentoring",
+          "Coaching"
+        ],
+        "variations": [
+          {
+            "id": "c7_9_combination_keyword",
+            "query": "Personalentwicklung und Mentoring, Coaching",
+            "type": "combination_keyword"
+          },
+          {
+            "id": "c7_9_combination_freetext",
+            "query": "Gesucht wird ein Experte mit Fähigkeiten in den Bereichen Personalentwicklung und Mentoring und Coaching",
+            "type": "combination_free"
+          },
+          {
+            "id": "c7_9_combination_keyword_synonym",
+            "query": "Mitarbeiterentwicklung und Begleitung, Beratung",
+            "type": "combination_keyword_synonym"
+          },
+          {
+            "id": "c7_9_combination_freetext_synonym",
+            "query": "Gesucht wird ein Experte mit Fähigkeiten in den Bereichen Mitarbeiterentwicklung und Begleitung und Beratung",
+            "type": "combination_free_synonym"
+          }
+        ]
+      },
+      {
+        "id": "c7_10_combination",
+        "keywords": [
+          "Human Resources",
+          "Coaching"
+        ],
+        "variations": [
+          {
+            "id": "c7_10_combination_keyword",
+            "query": "Human Resources, Coaching",
+            "type": "combination_keyword"
+          },
+          {
+            "id": "c7_10_combination_freetext",
+            "query": "Gesucht wird ein Experte mit Fähigkeiten in den Bereichen Human Resources und Coaching",
+            "type": "combination_free"
+          },
+          {
+            "id": "c7_10_combination_keyword_synonym",
+            "query": "Personalwesen, Mentoring",
+            "type": "combination_keyword_synonym"
+          },
+          {
+            "id": "c7_10_combination_freetext_synonym",
+            "query": "Gesucht wird ein Experte mit Fähigkeiten in den Bereichen Personalwesen und Mentoring",
+            "type": "combination_free_synonym"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "c8",
+    "cluster": "cluster_8",
+    "topic": "Bau- und Handwerkstechnik",
+    "single": [
+      {
+        "id": "c8_1_single",
+        "keyword": "Bau- und Ausbauhandwerk",
+        "variations": [
+          {
+            "id": "c8_1_single_keyword",
+            "query": "Bau- und Ausbauhandwerk",
+            "type": "single_keyword"
+          },
+          {
+            "id": "c8_1_single_freetext",
+            "query": "Gesucht wird ein Experte mit Fähigkeiten im Bereich Bau- und Ausbauhandwerk",
+            "type": "single_free"
+          },
+          {
+            "id": "c8_1_single_keyword_synonym",
+            "query": "Bauberufe",
+            "type": "single_keyword_synonym"
+          },
+          {
+            "id": "c8_1_single_freetext_synonym",
+            "query": "Gesucht wird ein Experte mit Fähigkeiten im Bereich Bauberufe",
+            "type": "single_free_synonym"
+          }
+        ]
+      },
+      {
+        "id": "c8_2_single",
+        "keyword": "Holzhandwerk",
+        "variations": [
+          {
+            "id": "c8_2_single_keyword",
+            "query": "Holzhandwerk",
+            "type": "single_keyword"
+          },
+          {
+            "id": "c8_2_single_freetext",
+            "query": "Gesucht wird ein Experte mit Fähigkeiten im Bereich Holzhandwerk",
+            "type": "single_free"
+          },
+          {
+            "id": "c8_2_single_keyword_synonym",
+            "query": "Schreinerei",
+            "type": "single_keyword_synonym"
+          },
+          {
+            "id": "c8_2_single_freetext_synonym",
+            "query": "Gesucht wird ein Experte mit Fähigkeiten im Bereich Schreinerei",
+            "type": "single_free_synonym"
+          }
+        ]
+      },
+      {
+        "id": "c8_3_single",
+        "keyword": "Anlagenbau",
+        "variations": [
+          {
+            "id": "c8_3_single_keyword",
+            "query": "Anlagenbau",
+            "type": "single_keyword"
+          },
+          {
+            "id": "c8_3_single_freetext",
+            "query": "Gesucht wird ein Experte mit Fähigkeiten im Bereich Anlagenbau",
+            "type": "single_free"
+          },
+          {
+            "id": "c8_3_single_keyword_synonym",
+            "query": "Industrieanlagenbau",
+            "type": "single_keyword_synonym"
+          },
+          {
+            "id": "c8_3_single_freetext_synonym",
+            "query": "Gesucht wird ein Experte mit Fähigkeiten im Bereich Industrieanlagenbau",
+            "type": "single_free_synonym"
+          }
+        ]
+      }
+    ],
+    "combination": [
+      {
+        "id": "c8_1_combination",
+        "keywords": [
+          "Bau- und Ausbauhandwerk",
+          "Anlagenbau"
+        ],
+        "variations": [
+          {
+            "id": "c8_1_combination_keyword",
+            "query": "Bau- und Ausbauhandwerk, Anlagenbau",
+            "type": "combination_keyword"
+          },
+          {
+            "id": "c8_1_combination_freetext",
+            "query": "Gesucht wird ein Experte mit Fähigkeiten in den Bereichen Bau- und Ausbauhandwerk und Anlagenbau",
+            "type": "combination_free"
+          },
+          {
+            "id": "c8_1_combination_keyword_synonym",
+            "query": "Baugewerbe, Anlagentechnik",
+            "type": "combination_keyword_synonym"
+          },
+          {
+            "id": "c8_1_combination_freetext_synonym",
+            "query": "Gesucht wird ein Experte mit Fähigkeiten in den Bereichen Baugewerbe und Anlagentechnik",
+            "type": "combination_free_synonym"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "c10",
+    "cluster": "cluster_10",
+    "topic": "Finanzmanagement und Unternehmensplanung",
+    "single": [
+      {
+        "id": "c10_1_single",
+        "keyword": "Finance",
+        "variations": [
+          {
+            "id": "c10_1_single_keyword",
+            "query": "Finance",
+            "type": "single_keyword"
+          },
+          {
+            "id": "c10_1_single_freetext",
+            "query": "Gesucht wird ein Experte mit Fähigkeiten im Bereich Finance",
+            "type": "single_free"
+          },
+          {
+            "id": "c10_1_single_keyword_synonym",
+            "query": "Finances",
+            "type": "single_keyword_synonym"
+          },
+          {
+            "id": "c10_1_single_freetext_synonym",
+            "query": "Gesucht wird ein Experte mit Fähigkeiten im Bereich Finances",
+            "type": "single_free_synonym"
+          }
+        ]
+      },
+      {
+        "id": "c10_2_single",
+        "keyword": "Financial Management",
+        "variations": [
+          {
+            "id": "c10_2_single_keyword",
+            "query": "Financial Management",
+            "type": "single_keyword"
+          },
+          {
+            "id": "c10_2_single_freetext",
+            "query": "Gesucht wird ein Experte mit Fähigkeiten im Bereich Financial Management",
+            "type": "single_free"
+          },
+          {
+            "id": "c10_2_single_keyword_synonym",
+            "query": "Finanzmanagement",
+            "type": "single_keyword_synonym"
+          },
+          {
+            "id": "c10_2_single_freetext_synonym",
+            "query": "Gesucht wird ein Experte mit Fähigkeiten im Bereich Finanzmanagement",
+            "type": "single_free_synonym"
+          }
+        ]
+      },
+      {
+        "id": "c10_3_single",
+        "keyword": "Budget Planning",
+        "variations": [
+          {
+            "id": "c10_3_single_keyword",
+            "query": "Budget Planning",
+            "type": "single_keyword"
+          },
+          {
+            "id": "c10_3_single_freetext",
+            "query": "Gesucht wird ein Experte mit Fähigkeiten im Bereich Budget Planning",
+            "type": "single_free"
+          },
+          {
+            "id": "c10_3_single_keyword_synonym",
+            "query": "Budgetierung",
+            "type": "single_keyword_synonym"
+          },
+          {
+            "id": "c10_3_single_freetext_synonym",
+            "query": "Gesucht wird ein Experte mit Fähigkeiten im Bereich Budgetierung",
+            "type": "single_free_synonym"
+          }
+        ]
+      }
+    ],
+    "combination": [
+      {
+        "id": "c10_1_combination",
+        "keywords": [
+          "Business Planning",
+          "Finance"
+        ],
+        "variations": [
+          {
+            "id": "c10_1_combination_keyword",
+            "query": "Business Planning, Finance",
+            "type": "combination_keyword"
+          },
+          {
+            "id": "c10_1_combination_freetext",
+            "query": "Gesucht wird ein Experte mit Fähigkeiten in den Bereichen Business Planning und Finance",
+            "type": "combination_free"
+          },
+          {
+            "id": "c10_1_combination_keyword_synonym",
+            "query": "Unternehmensplanung, Finanzen",
+            "type": "combination_keyword_synonym"
+          },
+          {
+            "id": "c10_1_combination_freetext_synonym",
+            "query": "Gesucht wird ein Experte mit Fähigkeiten in den Bereichen Unternehmensplanung und Finanzen",
+            "type": "combination_free_synonym"
+          }
+        ]
+      },
+      {
+        "id": "c10_2_combination",
+        "keywords": [
+          "Business Planning",
+          "Financial Management"
+        ],
+        "variations": [
+          {
+            "id": "c10_2_combination_keyword",
+            "query": "Business Planning, Financial Management",
+            "type": "combination_keyword"
+          },
+          {
+            "id": "c10_2_combination_freetext",
+            "query": "Gesucht wird ein Experte mit Fähigkeiten in den Bereichen Business Planning und Financial Management",
+            "type": "combination_free"
+          },
+          {
+            "id": "c10_2_combination_keyword_synonym",
+            "query": "Unternehmensplanung, Finanzsteuerung",
+            "type": "combination_keyword_synonym"
+          },
+          {
+            "id": "c10_2_combination_freetext_synonym",
+            "query": "Gesucht wird ein Experte mit Fähigkeiten in den Bereichen Unternehmensplanung und Finanzsteuerung",
+            "type": "combination_free_synonym"
+          }
+        ]
+      },
+      {
+        "id": "c10_3_combination",
+        "keywords": [
+          "Business Planning",
+          "Budget Planning"
+        ],
+        "variations": [
+          {
+            "id": "c10_3_combination_keyword",
+            "query": "Business Planning, Budget Planning",
+            "type": "combination_keyword"
+          },
+          {
+            "id": "c10_3_combination_freetext",
+            "query": "Gesucht wird ein Experte mit Fähigkeiten in den Bereichen Business Planning und Budget Planning",
+            "type": "combination_free"
+          },
+          {
+            "id": "c10_3_combination_keyword_synonym",
+            "query": "Corporate Strategy, Cost Forecasting",
+            "type": "combination_keyword_synonym"
+          },
+          {
+            "id": "c10_3_combination_freetext_synonym",
+            "query": "Gesucht wird ein Experte mit Fähigkeiten in den Bereichen Corporate Strategy und Cost Forecasting",
+            "type": "combination_free_synonym"
+          }
+        ]
+      },
+      {
+        "id": "c10_4_combination",
+        "keywords": [
+          "Business Planning",
+          "Business Development"
+        ],
+        "variations": [
+          {
+            "id": "c10_4_combination_keyword",
+            "query": "Business Planning, Business Development",
+            "type": "combination_keyword"
+          },
+          {
+            "id": "c10_4_combination_freetext",
+            "query": "Gesucht wird ein Experte mit Fähigkeiten in den Bereichen Business Planning und Business Development",
+            "type": "combination_free"
+          },
+          {
+            "id": "c10_4_combination_keyword_synonym",
+            "query": "Unternehmensplanung, Unternehmensentwicklung",
+            "type": "combination_keyword_synonym"
+          },
+          {
+            "id": "c10_4_combination_freetext_synonym",
+            "query": "Gesucht wird ein Experte mit Fähigkeiten in den Bereichen Unternehmensplanung und Unternehmensentwicklung",
+            "type": "combination_free_synonym"
+          }
+        ]
+      },
+      {
+        "id": "c10_5_combination",
+        "keywords": [
+          "Finance",
+          "Financial Management"
+        ],
+        "variations": [
+          {
+            "id": "c10_5_combination_keyword",
+            "query": "Finance, Financial Management",
+            "type": "combination_keyword"
+          },
+          {
+            "id": "c10_5_combination_freetext",
+            "query": "Gesucht wird ein Experte mit Fähigkeiten in den Bereichen Finance und Financial Management",
+            "type": "combination_free"
+          },
+          {
+            "id": "c10_5_combination_keyword_synonym",
+            "query": "Treasury management, Fiscal management",
+            "type": "combination_keyword_synonym"
+          },
+          {
+            "id": "c10_5_combination_freetext_synonym",
+            "query": "Gesucht wird ein Experte mit Fähigkeiten in den Bereichen Treasury management und Fiscal management",
+            "type": "combination_free_synonym"
+          }
+        ]
+      },
+      {
+        "id": "c10_6_combination",
+        "keywords": [
+          "Finance",
+          "Budget Planning"
+        ],
+        "variations": [
+          {
+            "id": "c10_6_combination_keyword",
+            "query": "Finance, Budget Planning",
+            "type": "combination_keyword"
+          },
+          {
+            "id": "c10_6_combination_freetext",
+            "query": "Gesucht wird ein Experte mit Fähigkeiten in den Bereichen Finance und Budget Planning",
+            "type": "combination_free"
+          },
+          {
+            "id": "c10_6_combination_keyword_synonym",
+            "query": "Finances, Budget Management",
+            "type": "combination_keyword_synonym"
+          },
+          {
+            "id": "c10_6_combination_freetext_synonym",
+            "query": "Gesucht wird ein Experte mit Fähigkeiten in den Bereichen Finances und Budget Management",
+            "type": "combination_free_synonym"
+          }
+        ]
+      },
+      {
+        "id": "c10_7_combination",
+        "keywords": [
+          "Finance",
+          "Business Development"
+        ],
+        "variations": [
+          {
+            "id": "c10_7_combination_keyword",
+            "query": "Finance, Business Development",
+            "type": "combination_keyword"
+          },
+          {
+            "id": "c10_7_combination_freetext",
+            "query": "Gesucht wird ein Experte mit Fähigkeiten in den Bereichen Finance und Business Development",
+            "type": "combination_free"
+          },
+          {
+            "id": "c10_7_combination_keyword_synonym",
+            "query": "Funding, Expansion",
+            "type": "combination_keyword_synonym"
+          },
+          {
+            "id": "c10_7_combination_freetext_synonym",
+            "query": "Gesucht wird ein Experte mit Fähigkeiten in den Bereichen Funding und Expansion",
+            "type": "combination_free_synonym"
+          }
+        ]
+      },
+      {
+        "id": "c10_8_combination",
+        "keywords": [
+          "Financial Management",
+          "Budget Planning"
+        ],
+        "variations": [
+          {
+            "id": "c10_8_combination_keyword",
+            "query": "Financial Management, Budget Planning",
+            "type": "combination_keyword"
+          },
+          {
+            "id": "c10_8_combination_freetext",
+            "query": "Gesucht wird ein Experte mit Fähigkeiten in den Bereichen Financial Management und Budget Planning",
+            "type": "combination_free"
+          },
+          {
+            "id": "c10_8_combination_keyword_synonym",
+            "query": "Fiscal Management, Budget Forecasting",
+            "type": "combination_keyword_synonym"
+          },
+          {
+            "id": "c10_8_combination_freetext_synonym",
+            "query": "Gesucht wird ein Experte mit Fähigkeiten in den Bereichen Fiscal Management und Budget Forecasting",
+            "type": "combination_free_synonym"
+          }
+        ]
+      },
+      {
+        "id": "c10_9_combination",
+        "keywords": [
+          "Financial Management",
+          "Business Development"
+        ],
+        "variations": [
+          {
+            "id": "c10_9_combination_keyword",
+            "query": "Financial Management, Business Development",
+            "type": "combination_keyword"
+          },
+          {
+            "id": "c10_9_combination_freetext",
+            "query": "Gesucht wird ein Experte mit Fähigkeiten in den Bereichen Financial Management und Business Development",
+            "type": "combination_free"
+          },
+          {
+            "id": "c10_9_combination_keyword_synonym",
+            "query": "Finanzmanagement, Geschäftsentwicklung",
+            "type": "combination_keyword_synonym"
+          },
+          {
+            "id": "c10_9_combination_freetext_synonym",
+            "query": "Gesucht wird ein Experte mit Fähigkeiten in den Bereichen Finanzmanagement und Geschäftsentwicklung",
+            "type": "combination_free_synonym"
+          }
+        ]
+      },
+      {
+        "id": "c10_10_combination",
+        "keywords": [
+          "Budget Planning",
+          "Business Development"
+        ],
+        "variations": [
+          {
+            "id": "c10_10_combination_keyword",
+            "query": "Budget Planning, Business Development",
+            "type": "combination_keyword"
+          },
+          {
+            "id": "c10_10_combination_freetext",
+            "query": "Gesucht wird ein Experte mit Fähigkeiten in den Bereichen Budget Planning und Business Development",
+            "type": "combination_free"
+          },
+          {
+            "id": "c10_10_combination_keyword_synonym",
+            "query": "Budget forecasting, Corporate growth",
+            "type": "combination_keyword_synonym"
+          },
+          {
+            "id": "c10_10_combination_freetext_synonym",
+            "query": "Gesucht wird ein Experte mit Fähigkeiten in den Bereichen Budget forecasting und Corporate growth",
+            "type": "combination_free_synonym"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "c11",
+    "cluster": "cluster_11",
+    "topic": "Strategische Unternehmensführung und Veränderungsmanagement",
+    "single": [
+      {
+        "id": "c11_1_single",
+        "keyword": "Business Planning",
+        "variations": [
+          {
+            "id": "c11_1_single_keyword",
+            "query": "Business Planning",
+            "type": "single_keyword"
+          },
+          {
+            "id": "c11_1_single_freetext",
+            "query": "Gesucht wird ein Experte mit Fähigkeiten im Bereich Business Planning",
+            "type": "single_free"
+          },
+          {
+            "id": "c11_1_single_keyword_synonym",
+            "query": "Unternehmensplanung",
+            "type": "single_keyword_synonym"
+          },
+          {
+            "id": "c11_1_single_freetext_synonym",
+            "query": "Gesucht wird ein Experte mit Fähigkeiten im Bereich Unternehmensplanung",
+            "type": "single_free_synonym"
+          }
+        ]
+      },
+      {
+        "id": "c11_2_single",
+        "keyword": "Business Development",
+        "variations": [
+          {
+            "id": "c11_2_single_keyword",
+            "query": "Business Development",
+            "type": "single_keyword"
+          },
+          {
+            "id": "c11_2_single_freetext",
+            "query": "Gesucht wird ein Experte mit Fähigkeiten im Bereich Business Development",
+            "type": "single_free"
+          },
+          {
+            "id": "c11_2_single_keyword_synonym",
+            "query": "Geschäftsentwicklung",
+            "type": "single_keyword_synonym"
+          },
+          {
+            "id": "c11_2_single_freetext_synonym",
+            "query": "Gesucht wird ein Experte mit Fähigkeiten im Bereich Geschäftsentwicklung",
+            "type": "single_free_synonym"
+          }
+        ]
+      },
+      {
+        "id": "c11_3_single",
+        "keyword": "Controlling",
+        "variations": [
+          {
+            "id": "c11_3_single_keyword",
+            "query": "Controlling",
+            "type": "single_keyword"
+          },
+          {
+            "id": "c11_3_single_freetext",
+            "query": "Gesucht wird ein Experte mit Fähigkeiten im Bereich Controlling",
+            "type": "single_free"
+          },
+          {
+            "id": "c11_3_single_keyword_synonym",
+            "query": "Steuerung",
+            "type": "single_keyword_synonym"
+          },
+          {
+            "id": "c11_3_single_freetext_synonym",
+            "query": "Gesucht wird ein Experte mit Fähigkeiten im Bereich Steuerung",
+            "type": "single_free_synonym"
+          }
+        ]
+      }
+    ],
+    "combination": [
+      {
+        "id": "c11_1_combination",
+        "keywords": [
+          "Change Management",
+          "Business Planning"
+        ],
+        "variations": [
+          {
+            "id": "c11_1_combination_keyword",
+            "query": "Change Management, Business Planning",
+            "type": "combination_keyword"
+          },
+          {
+            "id": "c11_1_combination_freetext",
+            "query": "Gesucht wird ein Experte mit Fähigkeiten in den Bereichen Change Management und Business Planning",
+            "type": "combination_free"
+          },
+          {
+            "id": "c11_1_combination_keyword_synonym",
+            "query": "Veränderungsmanagement, Unternehmensplanung",
+            "type": "combination_keyword_synonym"
+          },
+          {
+            "id": "c11_1_combination_freetext_synonym",
+            "query": "Gesucht wird ein Experte mit Fähigkeiten in den Bereichen Veränderungsmanagement und Unternehmensplanung",
+            "type": "combination_free_synonym"
+          }
+        ]
+      },
+      {
+        "id": "c11_2_combination",
+        "keywords": [
+          "Change Management",
+          "Business Development"
+        ],
+        "variations": [
+          {
+            "id": "c11_2_combination_keyword",
+            "query": "Change Management, Business Development",
+            "type": "combination_keyword"
+          },
+          {
+            "id": "c11_2_combination_freetext",
+            "query": "Gesucht wird ein Experte mit Fähigkeiten in den Bereichen Change Management und Business Development",
+            "type": "combination_free"
+          },
+          {
+            "id": "c11_2_combination_keyword_synonym",
+            "query": "Veränderungsmanagement, Geschäftsentwicklung",
+            "type": "combination_keyword_synonym"
+          },
+          {
+            "id": "c11_2_combination_freetext_synonym",
+            "query": "Gesucht wird ein Experte mit Fähigkeiten in den Bereichen Veränderungsmanagement und Geschäftsentwicklung",
+            "type": "combination_free_synonym"
+          }
+        ]
+      },
+      {
+        "id": "c11_3_combination",
+        "keywords": [
+          "Change Management",
+          "Controlling"
+        ],
+        "variations": [
+          {
+            "id": "c11_3_combination_keyword",
+            "query": "Change Management, Controlling",
+            "type": "combination_keyword"
+          },
+          {
+            "id": "c11_3_combination_freetext",
+            "query": "Gesucht wird ein Experte mit Fähigkeiten in den Bereichen Change Management und Controlling",
+            "type": "combination_free"
+          },
+          {
+            "id": "c11_3_combination_keyword_synonym",
+            "query": "Veränderungsmanagement, Kostenkontrolle",
+            "type": "combination_keyword_synonym"
+          },
+          {
+            "id": "c11_3_combination_freetext_synonym",
+            "query": "Gesucht wird ein Experte mit Fähigkeiten in den Bereichen Veränderungsmanagement und Kostenkontrolle",
+            "type": "combination_free_synonym"
+          }
+        ]
+      },
+      {
+        "id": "c11_4_combination",
+        "keywords": [
+          "Business Planning",
+          "Controlling"
+        ],
+        "variations": [
+          {
+            "id": "c11_4_combination_keyword",
+            "query": "Business Planning, Controlling",
+            "type": "combination_keyword"
+          },
+          {
+            "id": "c11_4_combination_freetext",
+            "query": "Gesucht wird ein Experte mit Fähigkeiten in den Bereichen Business Planning und Controlling",
+            "type": "combination_free"
+          },
+          {
+            "id": "c11_4_combination_keyword_synonym",
+            "query": "Unternehmensplanung, Kostenkontrolle",
+            "type": "combination_keyword_synonym"
+          },
+          {
+            "id": "c11_4_combination_freetext_synonym",
+            "query": "Gesucht wird ein Experte mit Fähigkeiten in den Bereichen Unternehmensplanung und Kostenkontrolle",
+            "type": "combination_free_synonym"
+          }
+        ]
+      },
+      {
+        "id": "c11_5_combination",
+        "keywords": [
+          "Business Development",
+          "Controlling"
+        ],
+        "variations": [
+          {
+            "id": "c11_5_combination_keyword",
+            "query": "Business Development, Controlling",
+            "type": "combination_keyword"
+          },
+          {
+            "id": "c11_5_combination_freetext",
+            "query": "Gesucht wird ein Experte mit Fähigkeiten in den Bereichen Business Development und Controlling",
+            "type": "combination_free"
+          },
+          {
+            "id": "c11_5_combination_keyword_synonym",
+            "query": "Geschäftsentwicklung, Finanzsteuerung",
+            "type": "combination_keyword_synonym"
+          },
+          {
+            "id": "c11_5_combination_freetext_synonym",
+            "query": "Gesucht wird ein Experte mit Fähigkeiten in den Bereichen Geschäftsentwicklung und Finanzsteuerung",
+            "type": "combination_free_synonym"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "c12",
+    "cluster": "cluster_12",
+    "topic": "Digitales Management und IT-Systeme",
+    "single": [
+      {
+        "id": "c12_1_single",
+        "keyword": "Cloud-Computing",
+        "variations": [
+          {
+            "id": "c12_1_single_keyword",
+            "query": "Cloud-Computing",
+            "type": "single_keyword"
+          },
+          {
+            "id": "c12_1_single_freetext",
+            "query": "Gesucht wird ein Experte mit Fähigkeiten im Bereich Cloud-Computing",
+            "type": "single_free"
+          },
+          {
+            "id": "c12_1_single_keyword_synonym",
+            "query": "Wolkenrechenleistung",
+            "type": "single_keyword_synonym"
+          },
+          {
+            "id": "c12_1_single_freetext_synonym",
+            "query": "Gesucht wird ein Experte mit Fähigkeiten im Bereich Wolkenrechenleistung",
+            "type": "single_free_synonym"
+          }
+        ]
+      },
+      {
+        "id": "c12_2_single",
+        "keyword": "IT-Management",
+        "variations": [
+          {
+            "id": "c12_2_single_keyword",
+            "query": "IT-Management",
+            "type": "single_keyword"
+          },
+          {
+            "id": "c12_2_single_freetext",
+            "query": "Gesucht wird ein Experte mit Fähigkeiten im Bereich IT-Management",
+            "type": "single_free"
+          },
+          {
+            "id": "c12_2_single_keyword_synonym",
+            "query": "Informationsmanagement",
+            "type": "single_keyword_synonym"
+          },
+          {
+            "id": "c12_2_single_freetext_synonym",
+            "query": "Gesucht wird ein Experte mit Fähigkeiten im Bereich Informationsmanagement",
+            "type": "single_free_synonym"
+          }
+        ]
+      },
+      {
+        "id": "c12_3_single",
+        "keyword": "Datenbankverwaltung",
+        "variations": [
+          {
+            "id": "c12_3_single_keyword",
+            "query": "Datenbankverwaltung",
+            "type": "single_keyword"
+          },
+          {
+            "id": "c12_3_single_freetext",
+            "query": "Gesucht wird ein Experte mit Fähigkeiten im Bereich Datenbankverwaltung",
+            "type": "single_free"
+          },
+          {
+            "id": "c12_3_single_keyword_synonym",
+            "query": "Datenbankadministration",
+            "type": "single_keyword_synonym"
+          },
+          {
+            "id": "c12_3_single_freetext_synonym",
+            "query": "Gesucht wird ein Experte mit Fähigkeiten im Bereich Datenbankadministration",
+            "type": "single_free_synonym"
+          }
+        ]
+      },
+      {
+        "id": "c12_4_single",
+        "keyword": "Softwareentwicklung",
+        "variations": [
+          {
+            "id": "c12_4_single_keyword",
+            "query": "Softwareentwicklung",
+            "type": "single_keyword"
+          },
+          {
+            "id": "c12_4_single_freetext",
+            "query": "Gesucht wird ein Experte mit Fähigkeiten im Bereich Softwareentwicklung",
+            "type": "single_free"
+          },
+          {
+            "id": "c12_4_single_keyword_synonym",
+            "query": "Anwendungsentwicklung",
+            "type": "single_keyword_synonym"
+          },
+          {
+            "id": "c12_4_single_freetext_synonym",
+            "query": "Gesucht wird ein Experte mit Fähigkeiten im Bereich Anwendungsentwicklung",
+            "type": "single_free_synonym"
+          }
+        ]
+      },
+      {
+        "id": "c12_5_single",
+        "keyword": "Data Analysis",
+        "variations": [
+          {
+            "id": "c12_5_single_keyword",
+            "query": "Data Analysis",
+            "type": "single_keyword"
+          },
+          {
+            "id": "c12_5_single_freetext",
+            "query": "Gesucht wird ein Experte mit Fähigkeiten im Bereich Data Analysis",
+            "type": "single_free"
+          },
+          {
+            "id": "c12_5_single_keyword_synonym",
+            "query": "Datenanalyse",
+            "type": "single_keyword_synonym"
+          },
+          {
+            "id": "c12_5_single_freetext_synonym",
+            "query": "Gesucht wird ein Experte mit Fähigkeiten im Bereich Datenanalyse",
+            "type": "single_free_synonym"
+          }
+        ]
+      }
+    ],
+    "combination": [
+      {
+        "id": "c12_1_combination",
+        "keywords": [
+          "Cloud-Computing",
+          "IT-Management"
+        ],
+        "variations": [
+          {
+            "id": "c12_1_combination_keyword",
+            "query": "Cloud-Computing, IT-Management",
+            "type": "combination_keyword"
+          },
+          {
+            "id": "c12_1_combination_freetext",
+            "query": "Gesucht wird ein Experte mit Fähigkeiten in den Bereichen Cloud-Computing und IT-Management",
+            "type": "combination_free"
+          },
+          {
+            "id": "c12_1_combination_keyword_synonym",
+            "query": "Cloud-Dienste, IT-Führung",
+            "type": "combination_keyword_synonym"
+          },
+          {
+            "id": "c12_1_combination_freetext_synonym",
+            "query": "Gesucht wird ein Experte mit Fähigkeiten in den Bereichen Cloud-Dienste und IT-Führung",
+            "type": "combination_free_synonym"
+          }
+        ]
+      },
+      {
+        "id": "c12_2_combination",
+        "keywords": [
+          "Cloud-Computing",
+          "Digital Ethics"
+        ],
+        "variations": [
+          {
+            "id": "c12_2_combination_keyword",
+            "query": "Cloud-Computing, Digital Ethics",
+            "type": "combination_keyword"
+          },
+          {
+            "id": "c12_2_combination_freetext",
+            "query": "Gesucht wird ein Experte mit Fähigkeiten in den Bereichen Cloud-Computing und Digital Ethics",
+            "type": "combination_free"
+          },
+          {
+            "id": "c12_2_combination_keyword_synonym",
+            "query": "Cloud-Dienste, Digitale Ethik",
+            "type": "combination_keyword_synonym"
+          },
+          {
+            "id": "c12_2_combination_freetext_synonym",
+            "query": "Gesucht wird ein Experte mit Fähigkeiten in den Bereichen Cloud-Dienste und Digitale Ethik",
+            "type": "combination_free_synonym"
+          }
+        ]
+      },
+      {
+        "id": "c12_3_combination",
+        "keywords": [
+          "Cloud-Computing",
+          "Datenbankverwaltung"
+        ],
+        "variations": [
+          {
+            "id": "c12_3_combination_keyword",
+            "query": "Cloud-Computing, Datenbankverwaltung",
+            "type": "combination_keyword"
+          },
+          {
+            "id": "c12_3_combination_freetext",
+            "query": "Gesucht wird ein Experte mit Fähigkeiten in den Bereichen Cloud-Computing und Datenbankverwaltung",
+            "type": "combination_free"
+          },
+          {
+            "id": "c12_3_combination_keyword_synonym",
+            "query": "Cloud-Dienste, Datenbankadministration",
+            "type": "combination_keyword_synonym"
+          },
+          {
+            "id": "c12_3_combination_freetext_synonym",
+            "query": "Gesucht wird ein Experte mit Fähigkeiten in den Bereichen Cloud-Dienste und Datenbankadministration",
+            "type": "combination_free_synonym"
+          }
+        ]
+      },
+      {
+        "id": "c12_4_combination",
+        "keywords": [
+          "Cloud-Computing",
+          "Softwareentwicklung"
+        ],
+        "variations": [
+          {
+            "id": "c12_4_combination_keyword",
+            "query": "Cloud-Computing, Softwareentwicklung",
+            "type": "combination_keyword"
+          },
+          {
+            "id": "c12_4_combination_freetext",
+            "query": "Gesucht wird ein Experte mit Fähigkeiten in den Bereichen Cloud-Computing und Softwareentwicklung",
+            "type": "combination_free"
+          },
+          {
+            "id": "c12_4_combination_keyword_synonym",
+            "query": "Wolkenbasierte Dienste, Anwendungsentwicklung",
+            "type": "combination_keyword_synonym"
+          },
+          {
+            "id": "c12_4_combination_freetext_synonym",
+            "query": "Gesucht wird ein Experte mit Fähigkeiten in den Bereichen Wolkenbasierte Dienste und Anwendungsentwicklung",
+            "type": "combination_free_synonym"
+          }
+        ]
+      },
+      {
+        "id": "c12_5_combination",
+        "keywords": [
+          "Cloud-Computing",
+          "Data Analysis"
+        ],
+        "variations": [
+          {
+            "id": "c12_5_combination_keyword",
+            "query": "Cloud-Computing, Data Analysis",
+            "type": "combination_keyword"
+          },
+          {
+            "id": "c12_5_combination_freetext",
+            "query": "Gesucht wird ein Experte mit Fähigkeiten in den Bereichen Cloud-Computing und Data Analysis",
+            "type": "combination_free"
+          },
+          {
+            "id": "c12_5_combination_keyword_synonym",
+            "query": "Wolkenbasierte Dienste, Datenanalyse",
+            "type": "combination_keyword_synonym"
+          },
+          {
+            "id": "c12_5_combination_freetext_synonym",
+            "query": "Gesucht wird ein Experte mit Fähigkeiten in den Bereichen Wolkenbasierte Dienste und Datenanalyse",
+            "type": "combination_free_synonym"
+          }
+        ]
+      },
+      {
+        "id": "c12_6_combination",
+        "keywords": [
+          "IT-Management",
+          "Softwareentwicklung"
+        ],
+        "variations": [
+          {
+            "id": "c12_6_combination_keyword",
+            "query": "IT-Management, Softwareentwicklung",
+            "type": "combination_keyword"
+          },
+          {
+            "id": "c12_6_combination_freetext",
+            "query": "Gesucht wird ein Experte mit Fähigkeiten in den Bereichen IT-Management und Softwareentwicklung",
+            "type": "combination_free"
+          },
+          {
+            "id": "c12_6_combination_keyword_synonym",
+            "query": "IT-Governance, Anwendungsentwicklung",
+            "type": "combination_keyword_synonym"
+          },
+          {
+            "id": "c12_6_combination_freetext_synonym",
+            "query": "Gesucht wird ein Experte mit Fähigkeiten in den Bereichen IT-Governance und Anwendungsentwicklung",
+            "type": "combination_free_synonym"
+          }
+        ]
+      },
+      {
+        "id": "c12_7_combination",
+        "keywords": [
+          "IT-Management",
+          "Data Analysis"
+        ],
+        "variations": [
+          {
+            "id": "c12_7_combination_keyword",
+            "query": "IT-Management, Data Analysis",
+            "type": "combination_keyword"
+          },
+          {
+            "id": "c12_7_combination_freetext",
+            "query": "Gesucht wird ein Experte mit Fähigkeiten in den Bereichen IT-Management und Data Analysis",
+            "type": "combination_free"
+          },
+          {
+            "id": "c12_7_combination_keyword_synonym",
+            "query": "Informationsmanagement, Datenanalyse",
+            "type": "combination_keyword_synonym"
+          },
+          {
+            "id": "c12_7_combination_freetext_synonym",
+            "query": "Gesucht wird ein Experte mit Fähigkeiten in den Bereichen Informationsmanagement und Datenanalyse",
+            "type": "combination_free_synonym"
+          }
+        ]
+      },
+      {
+        "id": "c12_8_combination",
+        "keywords": [
+          "Softwareentwicklung",
+          "Data Analysis"
+        ],
+        "variations": [
+          {
+            "id": "c12_8_combination_keyword",
+            "query": "Softwareentwicklung, Data Analysis",
+            "type": "combination_keyword"
+          },
+          {
+            "id": "c12_8_combination_freetext",
+            "query": "Gesucht wird ein Experte mit Fähigkeiten in den Bereichen Softwareentwicklung und Data Analysis",
+            "type": "combination_free"
+          },
+          {
+            "id": "c12_8_combination_keyword_synonym",
+            "query": "Softwaretechnik, Datenanalyse",
+            "type": "combination_keyword_synonym"
+          },
+          {
+            "id": "c12_8_combination_freetext_synonym",
+            "query": "Gesucht wird ein Experte mit Fähigkeiten in den Bereichen Softwaretechnik und Datenanalyse",
+            "type": "combination_free_synonym"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "c13",
+    "cluster": "cluster_13",
+    "topic": "Digitale Transformations- und Innovationsstrategie",
+    "single": [
+      {
+        "id": "c13_1_single",
+        "keyword": "Change Management",
+        "variations": [
+          {
+            "id": "c13_1_single_keyword",
+            "query": "Change Management",
+            "type": "single_keyword"
+          },
+          {
+            "id": "c13_1_single_freetext",
+            "query": "Gesucht wird ein Experte mit Fähigkeiten im Bereich Change Management",
+            "type": "single_free"
+          },
+          {
+            "id": "c13_1_single_keyword_synonym",
+            "query": "Veränderungsmanagement",
+            "type": "single_keyword_synonym"
+          },
+          {
+            "id": "c13_1_single_freetext_synonym",
+            "query": "Gesucht wird ein Experte mit Fähigkeiten im Bereich Veränderungsmanagement",
+            "type": "single_free_synonym"
+          }
+        ]
+      },
+      {
+        "id": "c13_2_single",
+        "keyword": "Digital Ethics",
+        "variations": [
+          {
+            "id": "c13_2_single_keyword",
+            "query": "Digital Ethics",
+            "type": "single_keyword"
+          },
+          {
+            "id": "c13_2_single_freetext",
+            "query": "Gesucht wird ein Experte mit Fähigkeiten im Bereich Digital Ethics",
+            "type": "single_free"
+          },
+          {
+            "id": "c13_2_single_keyword_synonym",
+            "query": "Digitalethik",
+            "type": "single_keyword_synonym"
+          },
+          {
+            "id": "c13_2_single_freetext_synonym",
+            "query": "Gesucht wird ein Experte mit Fähigkeiten im Bereich Digitalethik",
+            "type": "single_free_synonym"
+          }
+        ]
+      },
+      {
+        "id": "c13_3_single",
+        "keyword": "Business Process Analysis",
+        "variations": [
+          {
+            "id": "c13_3_single_keyword",
+            "query": "Business Process Analysis",
+            "type": "single_keyword"
+          },
+          {
+            "id": "c13_3_single_freetext",
+            "query": "Gesucht wird ein Experte mit Fähigkeiten im Bereich Business Process Analysis",
+            "type": "single_free"
+          },
+          {
+            "id": "c13_3_single_keyword_synonym",
+            "query": "Prozessanalyse",
+            "type": "single_keyword_synonym"
+          },
+          {
+            "id": "c13_3_single_freetext_synonym",
+            "query": "Gesucht wird ein Experte mit Fähigkeiten im Bereich Prozessanalyse",
+            "type": "single_free_synonym"
+          }
+        ]
+      }
+    ],
+    "combination": [
+      {
+        "id": "c13_1_combination",
+        "keywords": [
+          "Change Management",
+          "Digital Ethics"
+        ],
+        "variations": [
+          {
+            "id": "c13_1_combination_keyword",
+            "query": "Change Management, Digital Ethics",
+            "type": "combination_keyword"
+          },
+          {
+            "id": "c13_1_combination_freetext",
+            "query": "Gesucht wird ein Experte mit Fähigkeiten in den Bereichen Change Management und Digital Ethics",
+            "type": "combination_free"
+          },
+          {
+            "id": "c13_1_combination_keyword_synonym",
+            "query": "Veränderungsmanagement, Ethik der Digitalisierung",
+            "type": "combination_keyword_synonym"
+          },
+          {
+            "id": "c13_1_combination_freetext_synonym",
+            "query": "Gesucht wird ein Experte mit Fähigkeiten in den Bereichen Veränderungsmanagement und Ethik der Digitalisierung",
+            "type": "combination_free_synonym"
+          }
+        ]
+      },
+      {
+        "id": "c13_2_combination",
+        "keywords": [
+          "Change Management",
+          "Business Process Analysis"
+        ],
+        "variations": [
+          {
+            "id": "c13_2_combination_keyword",
+            "query": "Change Management, Business Process Analysis",
+            "type": "combination_keyword"
+          },
+          {
+            "id": "c13_2_combination_freetext",
+            "query": "Gesucht wird ein Experte mit Fähigkeiten in den Bereichen Change Management und Business Process Analysis",
+            "type": "combination_free"
+          },
+          {
+            "id": "c13_2_combination_keyword_synonym",
+            "query": "Veränderungsmanagement, Geschäftsprozessanalyse",
+            "type": "combination_keyword_synonym"
+          },
+          {
+            "id": "c13_2_combination_freetext_synonym",
+            "query": "Gesucht wird ein Experte mit Fähigkeiten in den Bereichen Veränderungsmanagement und Geschäftsprozessanalyse",
+            "type": "combination_free_synonym"
+          }
+        ]
+      },
+      {
+        "id": "c13_3_combination",
+        "keywords": [
+          "Digital Ethics",
+          "Business Development"
+        ],
+        "variations": [
+          {
+            "id": "c13_3_combination_keyword",
+            "query": "Digital Ethics, Business Development",
+            "type": "combination_keyword"
+          },
+          {
+            "id": "c13_3_combination_freetext",
+            "query": "Gesucht wird ein Experte mit Fähigkeiten in den Bereichen Digital Ethics und Business Development",
+            "type": "combination_free"
+          },
+          {
+            "id": "c13_3_combination_keyword_synonym",
+            "query": "Technologieethik, Geschäftsentwicklung",
+            "type": "combination_keyword_synonym"
+          },
+          {
+            "id": "c13_3_combination_freetext_synonym",
+            "query": "Gesucht wird ein Experte mit Fähigkeiten in den Bereichen Technologieethik und Geschäftsentwicklung",
+            "type": "combination_free_synonym"
+          }
+        ]
+      },
+      {
+        "id": "c13_4_combination",
+        "keywords": [
+          "Business Planning",
+          "Business Process Analysis"
+        ],
+        "variations": [
+          {
+            "id": "c13_4_combination_keyword",
+            "query": "Business Planning, Business Process Analysis",
+            "type": "combination_keyword"
+          },
+          {
+            "id": "c13_4_combination_freetext",
+            "query": "Gesucht wird ein Experte mit Fähigkeiten in den Bereichen Business Planning und Business Process Analysis",
+            "type": "combination_free"
+          },
+          {
+            "id": "c13_4_combination_keyword_synonym",
+            "query": "Strategic Planning, Workflow Analysis",
+            "type": "combination_keyword_synonym"
+          },
+          {
+            "id": "c13_4_combination_freetext_synonym",
+            "query": "Gesucht wird ein Experte mit Fähigkeiten in den Bereichen Strategic Planning und Workflow Analysis",
+            "type": "combination_free_synonym"
+          }
+        ]
+      },
+      {
+        "id": "c13_5_combination",
+        "keywords": [
+          "Business Development",
+          "Business Process Analysis"
+        ],
+        "variations": [
+          {
+            "id": "c13_5_combination_keyword",
+            "query": "Business Development, Business Process Analysis",
+            "type": "combination_keyword"
+          },
+          {
+            "id": "c13_5_combination_freetext",
+            "query": "Gesucht wird ein Experte mit Fähigkeiten in den Bereichen Business Development und Business Process Analysis",
+            "type": "combination_free"
+          },
+          {
+            "id": "c13_5_combination_keyword_synonym",
+            "query": "Geschäftsentwicklung, Geschäftsprozessanalyse",
+            "type": "combination_keyword_synonym"
+          },
+          {
+            "id": "c13_5_combination_freetext_synonym",
+            "query": "Gesucht wird ein Experte mit Fähigkeiten in den Bereichen Geschäftsentwicklung und Geschäftsprozessanalyse",
+            "type": "combination_free_synonym"
+          }
+        ]
+      }
+    ]
+  }
+]
